@@ -1,0 +1,109 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-image: url("https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg");
+    color: white;
+}
+
+.container
+{
+    width: 850px;
+    margin: auto;
+}
+
+.logo
+{
+    width: 120px;
+}
+
+.testologo
+{
+    font-size:25px;
+    display: inline-block;
+}
+
+.mail
+{
+    background-color: grey;
+    margin-bottom: 2px;
+}
+
+.partesinistra
+{
+    display: inline-block;
+    width: 30%;
+
+}
+
+.partedestra
+{
+    display: inline-block;
+    width: 65%;
+}
+
+.read
+{
+    background-color: lightgrey;
+    border: 1px solid black;
+}
+.unread
+{
+    background-color: grey;
+    border: 1px solid black;
+}
+
+.oggetto
+{
+    color: black;
+}
+
+.star
+{
+    color: orange;
+}
+
+h2
+{
+    margin-top: 20px;
+    margin-bottom: 13px;
+}
+
+footer
+{
+    margin-top: 15px;
+    text-align: center;
+}
+
+main div
+{
+    display:inline;
+    cursor: pointer;
+}
+
+#cerca
+{
+    width: 250px;
+}
+
+#numero
+{
+    color: red;
+    background-color: yellow;
+    border-radius: 60%;
+    padding: 6px;
+}
+
+#spanfooter
+{
+    font-size: 25px;
+}
+
+#fontfooter
+{
+    font-style: italic;
+}
